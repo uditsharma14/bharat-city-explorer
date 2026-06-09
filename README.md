@@ -1,5 +1,3 @@
-Got it — here is a cleaner **README.md** for a React-only AI project that gives **city insights only**.
-
 # BharatCity Explorer
 
 BharatCity Explorer is a React-based AI city insight application that helps users explore Indian cities and understand key information about each city.
@@ -197,6 +195,12 @@ npm install package-name
 
 The goal of this project is to create a simple AI-powered React application that helps users quickly understand Indian cities and their key highlights.
 
+
+## Demo Video
+
+Watch the project demo here:
+
+[Click here to watch the demo video](./India-city-explorer.mov)
 ## Author
 
 Udit Sharma
